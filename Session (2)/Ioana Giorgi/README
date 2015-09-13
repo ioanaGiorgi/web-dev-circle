@@ -1,0 +1,2 @@
+Run the server via `nodejs httpCall.js`. 
+Then go to 'http://localhost:3000/index.html' to see the latest closePrice for "brd", retrieved from stock quote for Bittnet Systems.
